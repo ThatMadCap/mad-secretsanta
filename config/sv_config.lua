@@ -20,7 +20,6 @@ return {
     enableGiftList = true,
 
     -- List of gift items that can be randomly assigned to players
-    -- Each player gets a unique gift from this list
     giftList = {
         'Christmas sweater',
         'Sprunk Soda',
